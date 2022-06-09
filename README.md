@@ -7,34 +7,32 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Portfolio Marijose
 
-**Web:**   (url github.io)
+**Web:**   https://github.com/mariajosenm/mariajosenm.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  María José Nogueras Méndez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
+**Resumen** : Este proyecto busca enseñar las obras escultóricas y pinturas de María José. 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome / MS Edge.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 90MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** 
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/06/22
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
+- Github
 - Instagram
 
 
@@ -46,7 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En este proyecto puedes navegar a través de mi portfolio mediante botones, hacer puzzles, cambiar la música a tu gusto, y conocer mi obras artísticas. 
 
 
 
@@ -64,7 +62,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -73,19 +70,18 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Mi motivación para hacer este portafolio es dar a conocer mi obra.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos. 
 
 
 
@@ -93,26 +89,18 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
 
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+el programa.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
+Aunque haya sido algo complicado el realizar el poryecto, finalmente me he sentido satisfecha d epoder explotar programas nuevo y descubrir una experiencia divertida.
 
 
 
